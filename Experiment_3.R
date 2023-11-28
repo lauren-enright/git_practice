@@ -2,6 +2,8 @@
 
 library(tidyverse)
 
+#adding in a new line for fun
+
 #first, read in the data
 
 settlement_counts_raw <- read_csv("settlement_data.csv")
